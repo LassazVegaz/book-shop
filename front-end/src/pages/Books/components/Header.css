@@ -1,0 +1,16 @@
+.books-header .search-area label {
+  margin-right: 10px;
+}
+
+.books-header .search-area .search-box {
+  margin: 0 15px 0 30px;
+}
+
+.books-header .nav-link,
+.books-header label {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.books-header .active {
+  color: #fff !important;
+}

@@ -1,0 +1,11 @@
+{
+    "liveSassCompile.settings.generateMap": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.css": { "when": "$(basename).scss" }
+    }
+}

@@ -1,0 +1,17 @@
+@import "./../../variables";
+
+.books-page {
+    .table-area {
+        margin-top: 95px;
+        padding: 0 40px;
+
+        th,
+        td {
+            text-align: center;
+        }
+
+        .button-container {
+            width: 12%;
+        }
+    }
+}

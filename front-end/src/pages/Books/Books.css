@@ -1,0 +1,13 @@
+.books-page .table-area {
+  margin-top: 95px;
+  padding: 0 40px;
+}
+
+.books-page .table-area th,
+.books-page .table-area td {
+  text-align: center;
+}
+
+.books-page .table-area .button-container {
+  width: 12%;
+}

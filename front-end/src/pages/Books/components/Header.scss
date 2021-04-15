@@ -1,0 +1,22 @@
+$fore-color: rgba(255, 255, 255, 0.75);
+
+.books-header {
+    .search-area {
+        label {
+            margin-right: 10px;
+        }
+
+        .search-box {
+            margin: 0 15px 0 30px;
+        }
+    }
+
+    .nav-link,
+    label {
+        color: $fore-color !important;
+    }
+
+    .active {
+        color: #fff !important;
+    }
+}
